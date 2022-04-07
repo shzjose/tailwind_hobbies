@@ -1,5 +1,5 @@
 
-#FLOWBITE
+# Flowbite
 
 Utilicé componentes de Flowbite para Tailwind
 
